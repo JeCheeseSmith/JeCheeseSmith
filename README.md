@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Watson Smith 🟩
 (An online alias for Kars van Velzen)
-<p align="left"> 
+<p> 
   <img src="https://komarev.com/ghpvc/?username=JeCheeseSmith&label=Profile%20views&color=orange&style=flat" alt="JeCheeseSmith" /> 
 </p>
-<p align="left">
-   I'm a 3th Bachelor Student Computer Science at
+<p>
+   I'm a 3rd Bachelor Student Computer Science at
 <a href="https://www.uantwerpen.be/" target="_blank"> University of Antwerp
 <img src="https://www.uantwerpen.be/favicon.ico" 
 alt="blender" 
@@ -17,7 +17,7 @@ Passionated about the Earth's green nature 🌱🌍 </p>
 
 ### Languages & Tools I use(d)
 
-<p align="left">
+<p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -32,3 +32,4 @@ Passionated about the Earth's green nature 🌱🌍 </p>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2024/02/cropped-docker-logo-favicon-32x32.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.nextcloud.com/" target="_blank" rel="noreferrer"> <img src="https://nextcloud.com/c/uploads/2022/03/favicon.png" alt="Nextcloud" width="40" height="40"/> </a>
 <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/be7e4cc6-COF-favicon-32x32.png" alt="Ubuntu" width="40" height="40"/> </a>
+
