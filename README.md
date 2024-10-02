@@ -1,13 +1,12 @@
 ## Hi 👋, I'm Watson Smith 🟩
-(An online alias for Kars van Velzen)
 <p> 
   <img src="https://komarev.com/ghpvc/?username=JeCheeseSmith&label=Profile%20views&color=orange&style=flat" alt="JeCheeseSmith" /> 
 </p>
 <p>
-   I'm a 3rd Bachelor Student Computer Science at
+   I'm a Computer Science aStudent at
 <a href="https://www.uantwerpen.be/" target="_blank"> University of Antwerp
 <img src="https://www.uantwerpen.be/favicon.ico" 
-alt="blender" 
+alt="University of Antwerp" 
 width="16" height="16"/> </a> 
 </p>
 <p> I like working on and with software. In my free time I try to maintain a personal VPS. Big fan off FOSS and interested in privacy & tracking mechanisms. 🕶 
