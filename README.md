@@ -31,4 +31,6 @@ Passionated about the Earth's green nature 🌱🌍 </p>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2024/02/cropped-docker-logo-favicon-32x32.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.nextcloud.com/" target="_blank" rel="noreferrer"> <img src="https://nextcloud.com/c/uploads/2022/03/favicon.png" alt="Nextcloud" width="40" height="40"/> </a>
 <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/be7e4cc6-COF-favicon-32x32.png" alt="Ubuntu" width="40" height="40"/> </a>
+<a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://jira.atlassian.com/favicon.ico" alt="Jira" width="40" height="40"/> </a>
+
 
