@@ -12,7 +12,7 @@ width="16" height="16"/> </a>
 <p> I like working on and with software. In my free time I try to maintain a personal VPS. Big fan off FOSS and interested in privacy & tracking mechanisms. 🕶 
 Passionated about the Earth's green nature 🌱🌍 </p>
 
-🔭 In my free time, I’m currently working on <a href="https://www.octubre.be/" target="_blank"> octubre </a> 🟧 & its planned derived projects! Stay tuned! :)
+🔭 As a hobby, next to my studies, I’m currently working on <a href="https://www.octubre.be/" target="_blank"> octubre </a> 🟧 & its planned derived projects! Stay tuned! :)
 
 ### Languages & Tools I use(d)
 
