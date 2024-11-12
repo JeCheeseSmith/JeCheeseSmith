@@ -14,7 +14,7 @@ Passionated about the Earth's green nature 🌱🌍 </p>
 
 🔭 As a hobby, next to my studies, I’m currently working on <a href="https://www.octubre.be/" target="_blank"> octubre </a> 🟧 & its planned derived projects! Stay tuned! :)
 
-### Languages & Tools I use(d)
+### Software I work(ed) with:
 
 <p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
