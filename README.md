@@ -27,6 +27,7 @@ Passionated about the Earth's green nature 🌱🌍 </p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/favicon.ico" alt="github" width="40" height="40"/> </a>
+<a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://circleci.com/favicon.ico" alt="circle ci" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2024/02/cropped-docker-logo-favicon-32x32.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.podman.io/" target="_blank" rel="noreferrer"> <img src="https://podman.io/favicon.ico" alt="podman" width="40" height="40"/> </a>
 <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://nginx.org/favicon.ico" alt="nginx" width="40" height="40"/> </a>
