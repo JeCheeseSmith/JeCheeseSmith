@@ -1,7 +1,4 @@
 ## Hi 👋, I'm Kars van Velzen 🟩
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=JeCheeseSmith&label=Profile%20views&color=orange&style=flat" alt="JeCheeseSmith" /> 
-</p>
 <p>
    I'm a Computer Science Student at
 <a href="https://www.uantwerpen.be/" target="_blank"> University of Antwerp
