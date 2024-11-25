@@ -1,4 +1,4 @@
-## Hi 👋, I'm Watson Smith 🟩
+## Hi 👋, I'm Kars van Velzen (alias; Watson Smith) 🟩
 <p> 
   <img src="https://komarev.com/ghpvc/?username=JeCheeseSmith&label=Profile%20views&color=orange&style=flat" alt="JeCheeseSmith" /> 
 </p>
