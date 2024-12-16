@@ -1,4 +1,4 @@
-## Hi 👋, I'm Kars van Velzen 🟩 <img align="right" width="50" height="50" src="https://github.com/JeCheeseSmith/JeCheeseSmith/blob/55f206497b68af4d7cb55df8571f9736e015f614/kwiek-slower.gif" alt="Blue Minecraft parrot named Kwiek - dancing"> 
+## Hi 👋, I'm Kars 🟩 <img align="right" width="50" height="50" src="https://github.com/JeCheeseSmith/JeCheeseSmith/blob/55f206497b68af4d7cb55df8571f9736e015f614/kwiek-slower.gif" alt="Blue Minecraft parrot named Kwiek - dancing"> 
 <p>
    I'm a Computer Science Student at
 <a href="https://www.uantwerpen.be/" target="_blank"> University of Antwerp
