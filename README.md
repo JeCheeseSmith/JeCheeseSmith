@@ -11,6 +11,12 @@ Passionated about the Earth's green nature 🌱🌍 </p>
 
 🔭 As a hobby, next to my studies, I’m currently working on <a href="https://www.octubre.be/" target="_blank"> octubre </a> 🟧 & its planned derived projects! Stay tuned! :)
 
+Feel free to reach out to me! ✉️ 📬
+- **Email**: [kars.van.velzen@gmail.com](mailto:kars.van.velzen@gmail.com)
+- **LinkedIn**: [Kars van Velzen](www.linkedin.com/in/kars-van-velzen)
+
+Don't have a good day, have a great day! 😊
+
 ### Software I work(ed) with:
 
 <p>
@@ -42,7 +48,3 @@ Passionated about the Earth's green nature 🌱🌍 </p>
 <a href="https://foldingathome.org" target="_blank" rel="noreferrer"> <img src="https://foldingathome.org/favicon.ico" alt="folding@home" width="40" height="40"/> </a>
 <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://jira.atlassian.com/favicon.ico" alt="Jira" width="40" height="40"/> </a>
 <a href="https://system-bridge.timmo.dev" target="_blank" rel="noreferrer"> <img src="https://system-bridge.timmo.dev/favicon.ico" alt="system-bridge" width="40" height="40"/> </a>
-
-   
-
-
