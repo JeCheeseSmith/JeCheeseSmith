@@ -13,7 +13,7 @@ Passionated about the Earth's green nature 🌱🌍 </p>
 
 Feel free to reach out to me! ✉️ 📬
 - **Email**: [kars.van.velzen@gmail.com](mailto:kars.van.velzen@gmail.com)
-- **LinkedIn**: [Kars van Velzen](www.linkedin.com/in/kars-van-velzen)
+- **LinkedIn**: <a href="https://www.linkedin.com/in/kars-van-velzen" target="_blank"> Kars van Velzen</a>
 
 Don't have a good day, have a great day! 😊
 
