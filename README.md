@@ -49,5 +49,7 @@ Don't have a good day, have a great day! 😊
 <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://jira.atlassian.com/favicon.ico" alt="Jira" width="40" height="40"/> </a>
 <a href="https://system-bridge.timmo.dev" target="_blank" rel="noreferrer"> <img src="https://system-bridge.timmo.dev/favicon.ico" alt="system-bridge" width="40" height="40"/> </a>
 <a href="https://mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://nl.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/favicon.20250219212258303.ico" alt="Matlab Mathworks" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="system-bridge" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R Statistics" width="40" height="40"/> </a> 
+<a href="https://www.antlr.org/" target="_blank" rel="noreferrer"> <img src="https://www.antlr.org//favicon.ico" alt="ANTLR" width="40" height="40"/> </a> 
+
 
