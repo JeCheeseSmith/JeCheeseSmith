@@ -6,8 +6,9 @@
 alt="University of Antwerp" 
 width="16" height="16"/> </a> 
 </p>
-<p> I like working on and with software. In my free time I try to maintain a personal VPS. Big fan off FOSS and interested in privacy & tracking mechanisms. 🕶 
-Passionated about the Earth's green nature 🌱🌍 </p>
+<p>I like working on and with software. In my free time I build my personal cloud infrastructure, mostly using FOSS, as a private alternative to big tech solutions. 
+   I'm into hiking, and always fascinated by Earth's nature. 🌱🌍 I enjoy researching and putting learned insights into practice.
+ </p>
 
 🔭 As a hobby, next to my studies, I’m currently working on <a href="https://www.octubre.be/" target="_blank"> octubre </a> 🟧 & its planned derived projects! Stay tuned! :)
 
