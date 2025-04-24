@@ -6,7 +6,7 @@
 alt="University of Antwerp" 
 width="16" height="16"/> </a> 
 </p>
-<p>I like working on and with software. In my free time I build my personal cloud infrastructure, mostly using FOSS, as a private alternative to big tech solutions. 
+<p>I like working on and with software. In my free time I build my personal cloud infrastructure, mostly using FOSS. 
    I'm into hiking, and always fascinated by Earth's nature. 🌱🌍 I enjoy researching and putting learned insights into practice.
  </p>
 
