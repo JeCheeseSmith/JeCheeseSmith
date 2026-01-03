@@ -12,8 +12,6 @@ width="16" height="16"/> </a>
 
 🔭 As a hobby, next to my studies, I’m currently working on <a href="https://www.octubre.be/" target="_blank"> octubre </a> 🟧 & its planned derived projects! Stay tuned! :)
 
-Feel free to reach out to me! ✉️ 📬
-- **Email**: [kars.van.velzen@gmail.com](mailto:kars.van.velzen@gmail.com)
-- **LinkedIn**: <a href="https://www.linkedin.com/in/kars-van-velzen" target="_blank"> Kars van Velzen</a>
+Feel free to [reach out](https://octubre.be/#contact) to me! ✉️ 📬
 
 Don't have a good day, have a great day! 😊
