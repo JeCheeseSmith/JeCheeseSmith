@@ -12,6 +12,6 @@ width="16" height="16"/> </a>
 
 🔭 As a hobby, next to my studies, I’m currently working on <a href="https://www.octubre.be/" target="_blank"> octubre </a> 🟧 & its planned derived projects! Stay tuned! :)
 
-Feel free to [reach out](https://octubre.be/#contact) to me! ✉️ 📬
+I'm open to work or collaborate with you! Feel free to [reach out](https://octubre.be/#contact) to me! ✉️ 📬
 
 Don't have a good day, have a great day! 😊
